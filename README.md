@@ -2,6 +2,6 @@
 Hello world!
 _test_ 
 **witaj**
-[ ] Trzeba to załatwić
+- [ ] Trzeba to załatwić
 [LINK](url)
 ' fragment kodu '
