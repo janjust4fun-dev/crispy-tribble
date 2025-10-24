@@ -32,3 +32,5 @@ Jeśli wklejasz dłuższy kod, np. taki:
 
 Otocz go trzema znakami `.
 
+## 1.5.	Cytaty
+> Fragmenty cytowanego tekstu wprowadzamy znakiem „>” na początku wiersza
