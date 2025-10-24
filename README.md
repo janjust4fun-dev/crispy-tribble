@@ -28,5 +28,5 @@ Jeśli wklejasz dłuższy kod, np. taki:
 	</body>
 </XML> ```
 
-Otocz go trzema znakami `.
+Otocz go trzema znakami.
 
