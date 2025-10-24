@@ -26,7 +26,7 @@ Jeśli wklejasz dłuższy kod, np. taki:
 		<div>
 		</div>
 	</body>
-</XML> ```
+</XML>
 
 Otocz go trzema znakami.
 
