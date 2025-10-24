@@ -19,13 +19,14 @@ Pewnie zastanawiasz się, jak uzyskać w markdownie nagłówek 1, 2 i 3 rzędu. 
 
 Znaczniki `<code>` `<quote>` czy `<text>`, aby wyświetlały się jako znaczniki, muszą być otoczone znakiem `. 
 Jeśli wklejasz dłuższy kod, np. taki:
-```<XML>
+``` <XML>
 	<header>
 	</header>
 	<body>
 		<div>
 		</div>
 	</body>
-</XML>```
+</XML> ```
+
 Otocz go trzema znakami `.
 
