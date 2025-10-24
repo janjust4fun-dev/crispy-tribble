@@ -39,4 +39,4 @@ Otocz go trzema znakami `.
 |---|---|---|---|---|
 |Aby|ją|uzyskać|przedzielaj|wyrazy|
 |kreską|pionową|"|"|o|tak|
-
+Może się zdarzyć, że trzeba będzie coś podlinkować, o… np. stronę Uniwersytetu Jagiellońskiego. Aby to zrobić, wpisz tekst w nawias kwadratowy, zaś adres URL zaraz obok – w nawias okrągły: [](). 
