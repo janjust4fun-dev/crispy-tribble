@@ -17,4 +17,4 @@ Pewnie zastanawiasz się, jak uzyskać w markdownie nagłówek 1, 2 i 3 rzędu. 
 *	Działa dobrze w połączeniu z kodem, dlatego uwielbiają go programiści.
 
 
-'<fragment>'
+Znaczniki `<code>` `<quote>` czy `<text>`, aby wyświetlały się jako znaczniki, muszą być otoczone znakiem `. 
