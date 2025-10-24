@@ -36,6 +36,7 @@ Otocz go trzema znakami `.
 > Fragmenty cytowanego tekstu wprowadzamy znakiem „>” na początku wiersza
 >
 |Tabela|to|wyższa|szkoła|jazdy|
+|---|---|---|---|---|
 |Aby|ją|uzyskać|przedzielaj|wyrazy|
 |kreską|pionową|"|"|o|tak|
 
